@@ -1,0 +1,25 @@
+{
+  "app_name": "logout",
+  "app_version": "1.1",
+  "music_on": true,
+  "sound_xf": true,
+  "volume": 50,
+  "current_level": 1,
+  "level_1": {
+    "current_lesson": 1,
+    "current_top": 1
+  },
+  "level_2": {
+    "current_lesson": 1,
+    "current_top": 1
+  },
+  "level_3": {
+    "current_lesson": 1,
+    "current_top": 1
+  },
+  "level_4": {
+    "current_lesson": 1,
+    "current_top": 1
+  },
+  "current_language": "english"
+}
